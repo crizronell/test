@@ -3,7 +3,7 @@ import SearchBar from "./components/SearchBar";
 
 export default async function Home() {
   return (
-    <main className="mx-auto w-fit">
+    <main>
       <SearchBar />
     </main>
   );
